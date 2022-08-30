@@ -5,7 +5,7 @@
 </p>
 
  align="center">
-    <img src="https://komarev.com/ghpvc/?username=Hydroxzz">
+    <img src="https://komarev.com/ghpvc/?username=Tecnio" alt="Profile Views">
   </p>
 </a>
 
