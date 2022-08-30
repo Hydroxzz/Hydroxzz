@@ -4,4 +4,9 @@
     </a>
 </p>
 
+ align="center">
+    <img src="https://komarev.com/ghpvc/?username=Hydroxzz">
+  </p>
+</a>
+
 ![Profile views](https://gpvc.arturio.dev/Hydroxzz)
